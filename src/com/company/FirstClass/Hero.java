@@ -9,7 +9,7 @@ public class Hero {
 
     int moveSpeed; //移动速度
 
-    int sum;
+    int sum1;
 
     public Hero(){
 
